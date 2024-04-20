@@ -27,7 +27,7 @@ By making use of the genres and tags given by user we can make our recommender s
 
 
 #### Citations:
-[Movie Recommender System by CamopusX](https://www.youtube.com/watch?v=1xtrIEwY_zY&t=6256s)
+[Movie Recommender System by CampusX](https://www.youtube.com/watch?v=1xtrIEwY_zY&t=6256s)
 
 [Movie Recommender System by Krish Naik](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
