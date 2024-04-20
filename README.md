@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-![Movie recommender system while searching for movies](movie1.png)
+![Movie recommender system while searching for movies](interface.png)
 
 #### Abstract
 With the vast amount of movies available across various platforms, users often face the challenge
