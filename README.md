@@ -28,9 +28,13 @@ By making use of the genres and tags given by user we can make our recommender s
 
 #### Citations:
 [Movie Recommender System by CamopusX](https://www.youtube.com/watch?v=1xtrIEwY_zY&t=6256s)
+
 [Movie Recommender System by Krish Naik](https://www.youtube.com/watch?v=A_78fGgQMjM)
+
 [Content Based Movie Recommendation System](https://medium.com/web-mining-is688-spring-2021/content-based-movie-recommendation-system-72f122641eab)
+
 [DBSCAN/wiki](https://en.wikipedia.org/wiki/DBSCAN).
+
 [Agglomerative Methods in Machine Learning](https://www.geeksforgeeks.org/agglomerative-methods-in-machine-learning/)
 
 
