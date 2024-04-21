@@ -11,7 +11,7 @@ This project implements a movie recommendation system using content-based filter
 - [Data](#data)
 - [Algorithm](#algorithm)
 - [Results](#results)
-- [Web Interface](#Web interface)
+- [Web Interface](#Webinterface)
 
 
 
