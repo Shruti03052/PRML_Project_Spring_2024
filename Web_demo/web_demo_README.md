@@ -61,7 +61,7 @@ For enhanced user experience we have developed a website where user can interact
 app.py provides the code needed to build the website.
 
 Here is the link to the github repository for building website
-[Link to the repository]()
+[Link to the repository](https://github.com/Shruti03052/movie_recommender)
 ## Usage of app.py
 For running app.py user can provide following commands
 - streamlit run app.py
