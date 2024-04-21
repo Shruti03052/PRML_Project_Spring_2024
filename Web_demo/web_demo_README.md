@@ -11,6 +11,7 @@ This project implements a movie recommendation system using content-based filter
 - [Data](#data)
 - [Algorithm](#algorithm)
 - [Results](#results)
+- [Web Interface](#Web interface)
 
 
 
@@ -55,7 +56,12 @@ The recommendation system uses content-based filtering techniques, specifically 
 ## Results
 The system provides recommendations based on the input movie title. It returns a list of top similar movies based on their descriptions.
 
-
+## Web Interface
+For enhanced user experience we have developed a website where user can interact with the recommender system seamlessly
+app.py provides the code needed to build the website.
+## Usage of app.py
+For running app.py user can provide following commands
+- streamlit run app.py
 
 
 
